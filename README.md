@@ -15,7 +15,7 @@
 
 ### 🛠️ Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,c,cpp,arduino,git,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,c,cpp,arduino,git,github" alt="Tech Stack" /><img src="qmk.png" style="margin-left: 8px; alt="qmk"  width="45 />
 </p>
 
 ---
