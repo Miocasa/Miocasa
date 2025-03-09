@@ -9,7 +9,7 @@
 ### 👨‍💻 About me  
 - 💡 **Basic :** Who?
 - 🎯 **I love to work with** Open-Source and new technologies
-- 🌎 **Visit my site:** [mysite.com](https://mysite.com) place holder
+- 🌎 **Visit my site:** [mysite.com](https://mysite.com) (this is place holder)
 
 ---
 
