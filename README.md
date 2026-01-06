@@ -1,36 +1,54 @@
-<h1 align="center">Hi, i'm <a href="https://github.com/Miocasa">Miocasa</a>! 👋</h1>
-
+<h1 align="center">
+  Hi, I'm <a href="https://github.com/Miocasa">Miocasa</a> 👋
+</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F79400&width=600&lines=CPP,+C+and+Arduino+programmer;I+love+Open-Source+projects:" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F79400&center=true&vCenter=true&width=600&lines=C%2B%2B%2C+C+and+Arduino+Developer;Open-Source+Enthusiast;Linux+%26+Embedded+Systems+Lover" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Miocasa?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Miocasa?style=for-the-badge&color=F79400" />
 </p>
 
 ---
 
-### 👨‍💻 About me  
-- 💡 **Basic :** Who?
-- 🎯 **I love to work with** Open-Source and new technologies
-- 🌎 **Visit my site:** [mysite.com](https://mysite.com) (this is place holder)
+## 👨‍💻 About Me
+- 💡 **Who am I?** Student & embedded / systems programming enthusiast
+- 🚀 Passionate about **Open-Source**, **Linux**, and **low-level development**
+- 🔌 Love working with **microcontrollers & hardware**
+- 🌐 **Website:** _coming soon_
 
 ---
 
-### 🛠️ Technologies
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,c,cpp,arduino,git,github,html,obsidian" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,dart,flutter,obsidian,github,c,cpp,arduino,rust,git&perline=10" />
 </p>
 
 ---
 
-### 📊 GitHub statistics
+## 📚 Now learning/working on
+- 📟 Embeded programming on Rust ([repository]("https://github.com/Miocasa/pico-oled-rust.git"))
+- 📱 Kotlin for mobile development
+- 🧑‍🦯 PocketDot - little device that solve big problem
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miocasa&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Miocasa&theme=radical" width="49%" />
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Miocasa&theme=gruvbox" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Miocasa&theme=gruvbox" width="66%" align="top" />
+</p>
+
+<p align="center">
+
 </p>
 
 ---
 
-### 📫 FeadBack
-- ✉️ Email: [narimanabdualiev06@gmail.com](mailto:narimanabdualiev06@gmail.com)   
+## 📫 Contact
+- ✉️ **Email:** [narimanabdualiev06@gmail.com](mailto:narimanabdualiev06@gmail.com)
 
 ---
 
-⭐ **If you like my profile, please star my repos!** ⭐
+⭐ **If you like my work — consider starring my repositories!** ⭐
