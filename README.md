@@ -2,7 +2,7 @@
   Hi, I'm <a href="https://github.com/Miocasa">Miocasa</a> 👋
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F79400&center=true&vCenter=true&width=600&lines=C%2B%2B%2C+C+and+Arduino+Developer;Open-Source+Enthusiast;Linux+%26+Embedded+Systems+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F79400&center=true&vCenter=true&width=600&lines=C%2B%2B%2C+C+and+Rust+Developer;Open-Source+Enthusiast;Linux+%26+Embedded+Systems+Lover" />
 </p>
 
 ---
