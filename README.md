@@ -4,10 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F79400&center=true&vCenter=true&width=600&lines=C%2B%2B%2C+C+and+Arduino+Developer;Open-Source+Enthusiast;Linux+%26+Embedded+Systems+Lover" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Miocasa?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Miocasa?style=for-the-badge&color=F79400" />
-</p>
 
 ---
 
