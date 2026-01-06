@@ -23,7 +23,7 @@
 ---
 
 ## 📚 Now learning/working on
-- 📟 Embeded programming on Rust ([repository]("https://github.com/Miocasa/pico-oled-rust.git"))
+- 📟 Embeded programming on Rust ([repository](https://github.com/Miocasa/pico-oled-rust.git))
 - 📱 Kotlin for mobile development
 - 🧑‍🦯 PocketDot - little device that solve big problem
 
